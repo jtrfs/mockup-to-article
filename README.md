@@ -5,7 +5,7 @@ Download and unzip mockup-to-article.zip in the Supporting Materials section, be
 
 Use what you've learned about web development so far to edit index.html so that it looks exactly like the mockup image. You will need to use new elements, which means that you'll need to research and experiment! (Hint: look up "superscript," "horizontal rule," and "strikethrough."). 
 
-:point_right: Note: You can recreate the mockup without using a single <br> tag! You don't need to worry about line breaks. 
+:point_right: Note: You can recreate the mockup without using a single \<br\> tag! You don't need to worry about line breaks. 
 The text should naturally wrap depending on how wide the window is.
 
 When you've finished building the article, open up reflections.txt. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in reflections.txt. Answer the following questions:
