@@ -17,6 +17,6 @@ When you've finished building the article, open up reflections.txt. You've learn
 
 ******
 
-:point_right: [Project Specifications](https://review.udacity.com/#!/rubrics/145/view)(rubric) on Udacity
+:point_right: [Project Specifications](https://review.udacity.com/#!/rubrics/145/view)/rubric on Udacity
 
 :point_right: [Live version](https://jtrfs.github.io/mockup-to-article/)
