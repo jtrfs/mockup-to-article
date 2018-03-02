@@ -9,6 +9,6 @@ What has been easy?
 What has been difficult?
 How have you used the problem solving strategies from the first project to overcome challenges so far?
 
-[Project Specifications] (https://review.udacity.com/#!/rubrics/145/view)
+[Project Specifications](https://review.udacity.com/#!/rubrics/145/view)
 
 [Live version](https://jtrfs.github.io/mockup-to-article/)
