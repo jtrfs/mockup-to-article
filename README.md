@@ -23,4 +23,4 @@ When you've finished building the article, open up reflections.txt. You've learn
 
 ***
 
-- [x] don't forget to try out the markdown
+- [x] don't forget to try out the markdown :smirk:
