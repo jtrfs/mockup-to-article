@@ -10,4 +10,4 @@ What has been difficult?
 How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 
-[Live version](https://)
+[Live version](https://jtrfs.github.io/mockup-to-article/)
