@@ -12,10 +12,10 @@ Note: You can recreate the mockup without using a single <br> tag! You don't nee
 The text should naturally wrap depending on how wide the window is.
 
 When you've finished building the article, open up reflections.txt. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in reflections.txt. Answer the following questions:
-_What new skills have you learned?_
-_What has been easy?_
-_What has been difficult?_
-How have you used the problem solving strategies from the first project to overcome challenges so far?
+    _What new skills have you learned?_
+    _What has been easy?_
+    _What has been difficult?_
+    _How have you used the problem solving strategies from the first project to overcome challenges so far?_
 
 [Project Specifications](https://review.udacity.com/#!/rubrics/145/view)
 
