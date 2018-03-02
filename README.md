@@ -21,4 +21,6 @@ When you've finished building the article, open up reflections.txt. You've learn
 
 :point_right: [Live version](https://jtrfs.github.io/mockup-to-article/)
 
-- [x] I have also been trying out the markdown
+***
+
+    - [x] don't forget to try out the markdown
