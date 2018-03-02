@@ -15,6 +15,8 @@ When you've finished building the article, open up reflections.txt. You've learn
 > _What has been difficult?_\
 > _How have you used the problem solving strategies from the first project to overcome challenges so far?_
 
-[Project Specifications](https://review.udacity.com/#!/rubrics/145/view)
+******
 
-[Live version](https://jtrfs.github.io/mockup-to-article/)
+:point_right: [Project Specifications](https://review.udacity.com/#!/rubrics/145/view)
+
+:point_right: [Live version](https://jtrfs.github.io/mockup-to-article/)
