@@ -35,7 +35,7 @@ When you've finished building the article, open up `reflections.txt`. You've lea
           });
         });
       });
- ```</script>
+	</script>```
 
 
 * I tried to follow the mockup precisely - its look/design.
