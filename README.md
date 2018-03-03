@@ -24,7 +24,7 @@ The text should naturally wrap depending on how wide the window is.
 ***
 
 ### My tweaks to the project:
-* I used not only HTML but also some internal CSS plus media query along with JavaScript and jQuery. To see the effect you must resize the viewport.
+* I used not only HTML but also some internal CSS plus media query along with and jQuery. To see the effect you must resize the viewport.
 
 **some media query**
 ```
