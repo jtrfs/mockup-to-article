@@ -26,20 +26,25 @@ When you've finished building the article, open up `reflections.txt`. You've lea
 ### My tweaks to the project:
 * I used not only HTML but also some internal CSS plus media query along with JavaScript and jQuery. To see the effect you must resize the viewport.
 
-
-JavaScript/jQuery | media query | some CSS
-----------
+**some media query**
 ```
-<script> |
-  $(function() { |
-    $( document ).on( "mousemove", function( event ) { |
-    $( ".tooltip1" ).css({ |
-        "left" : event.pageX, |
-        "top" : event.pageY |
-      }); |
-    }); |
-  }); |
-</script> |
+@media screen and (min-width: 1300px) {
+      .tooltip1{ display: none;  }
+      .tooltip2 { display: inline-block}
+```
+
+**some JavaScript**
+```
+<script>
+  $(function() {
+    $( document ).on( "mousemove", function( event ) {
+    $( ".tooltip1" ).css({
+        "left" : event.pageX,
+        "top" : event.pageY
+      });
+    });
+  });
+</script>
 ```
 
 
