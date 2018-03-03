@@ -33,7 +33,7 @@ When you've finished building the article, open up `reflections.txt`. You've lea
       .tooltip2 { display: inline-block}
 ```
 
-**some JavaScript**
+**some jQuery**
 ```
 <script>
   $(function() {
