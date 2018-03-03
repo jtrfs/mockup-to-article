@@ -23,11 +23,11 @@ When you've finished building the article, open up `reflections.txt`. You've lea
 
 ***
 
-My tweaks to the project:
+### My tweaks to the project:
 * I used not only HTML but also some internal CSS plus media query along with JavaScript and jQuery. To see the effect you must resize the viewport.
 * I tried to follow the mockup precisely - its look/design.
 
-## to do list
+### to do list
 - [x] remember to try out the markdown (I tried to get the hang of the markdown in this README file)
 - [ ] keep coding ... :smirk:
 
