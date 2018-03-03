@@ -8,7 +8,7 @@ Use what you've learned about web development so far to edit index.html so that 
 :point_right: Note: You can recreate the mockup without using a single \<br\> tag! You don't need to worry about line breaks. 
 The text should naturally wrap depending on how wide the window is.
 
-When you've finished building the article, open up reflections.txt. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
+When you've finished building the article, open up `reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
 
 > _What new skills have you learned?_\
 > _What has been easy?_\
@@ -23,4 +23,11 @@ When you've finished building the article, open up reflections.txt. You've learn
 
 ***
 
-- [x] don't forget to try out the markdown :smirk:
+My tweaks to the project:
+* I used not only HTML but also some internal CSS plus media query along with JavaScript and jQuery. To see the effect you must resize the viewport.
+* I tried to follow the mockup precisely - its look/design.
+
+## to do list
+- [x] remember to try out the markdown (I tried to get the hang of the markdown in this README file)
+- [ ] keep coding ... :smirk:
+
