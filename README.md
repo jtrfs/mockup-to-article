@@ -1,5 +1,5 @@
 # Project Instructions
-**Review the Article to Mockup Project Rubric**
+**Review the Article to Mockup Project [Rubric](https://review.udacity.com/#!/rubrics/145/view)**
 
 Download and unzip `mockup-to-article.zip` in the Supporting Materials section, below. You'll find `index.html`, the article mockup image (`blog-mockup.pdf`) and a file called `reflections.txt` inside.
 
@@ -17,9 +17,9 @@ When you've finished building the article, open up `reflections.txt`. You've lea
 
 ******
 
-:point_right: [Project Specifications](https://review.udacity.com/#!/rubrics/145/view)/rubric on Udacity
+:point_right: [Project Specifications/Rubric](https://review.udacity.com/#!/rubrics/145/view)
 
-:point_right: [Live version](https://jtrfs.github.io/mockup-to-article/)
+:point_right: [View Online](https://jtrfs.github.io/mockup-to-article/)
 
 ***
 
@@ -49,6 +49,8 @@ When you've finished building the article, open up `reflections.txt`. You've lea
 
 
 * I tried to follow the mockup precisely - its look/design.
+
+********
 
 ### To do list
 - [x] remember to try out the markdown (I tried to get the hang of the markdown in this README file)
