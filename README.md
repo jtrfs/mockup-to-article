@@ -24,7 +24,7 @@ The text should naturally wrap depending on how wide the window is.
 ***
 
 ### :red_circle: My tweaks to the project:
-* I used not only HTML but also some internal CSS plus media query along with and jQuery. :heavy_exclamation_mark: ** To see the effect you must resize the viewport**.
+* I used not only HTML but also some internal CSS plus media query along with and jQuery. :exclamation: **To see the effect you must resize the viewport**.
 * I tried to follow the mockup precisely - its look/design.
 
 **some media query**
