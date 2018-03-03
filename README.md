@@ -23,8 +23,9 @@ The text should naturally wrap depending on how wide the window is.
 
 ***
 
-### My tweaks to the project:
-* I used not only HTML but also some internal CSS plus media query along with and jQuery. To see the effect you must resize the viewport.
+### :red_circle: My tweaks to the project:
+* I used not only HTML but also some internal CSS plus media query along with and jQuery. **To see the effect you must resize the viewport**.
+* I tried to follow the mockup precisely - its look/design.
 
 **some media query**
 ```
@@ -46,9 +47,6 @@ The text should naturally wrap depending on how wide the window is.
   });
 </script>
 ```
-
-
-* I tried to follow the mockup precisely - its look/design.
 
 ********
 
