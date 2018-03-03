@@ -50,7 +50,7 @@ When you've finished building the article, open up `reflections.txt`. You've lea
 
 * I tried to follow the mockup precisely - its look/design.
 
-### to do list
+### To do list
 - [x] remember to try out the markdown (I tried to get the hang of the markdown in this README file)
 - [ ] keep coding ... :smirk:
 
