@@ -1,14 +1,14 @@
-# Project Instructions
-**Review the Article to Mockup Project Rubric**
+## Project Instructions :pencil:
+**Review the Article to Mockup Project [Rubric](https://review.udacity.com/#!/rubrics/145/view)**
 
-Download and unzip `mockup-to-article.zip` in the Supporting Materials section, below. You'll find `index.html`, the article mockup image (`blog-mockup.pdf`) and a file called `reflections.txt` inside.
+1. Download and unzip `mockup-to-article.zip` in the Supporting Materials section, below. You'll find `index.html`, the article mockup image (`blog-mockup.pdf`) and a file called `reflections.txt` inside.
 
-Use what you've learned about web development so far to edit index.html so that it looks exactly like the mockup image. You will need to use new elements, which means that you'll need to research and experiment! (Hint: look up "superscript," "horizontal rule," and "strikethrough."). 
+2. Use what you've learned about web development so far to edit index.html so that it looks exactly like the mockup image. You will need to use new elements, which means that you'll need to research and experiment! (Hint: look up "superscript," "horizontal rule," and "strikethrough."). 
 
 :point_right: Note: You can recreate the mockup without using a single \<br\> tag! You don't need to worry about line breaks. 
 The text should naturally wrap depending on how wide the window is.
 
-When you've finished building the article, open up `reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
+3. When you've finished building the article, open up `reflections.txt`. You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development in `reflections.txt`. Answer the following questions:
 
 > _What new skills have you learned?_\
 > _What has been easy?_\
@@ -17,15 +17,14 @@ When you've finished building the article, open up `reflections.txt`. You've lea
 
 ******
 
-:point_right: [Project Specifications](https://review.udacity.com/#!/rubrics/145/view)/rubric on Udacity
+:point_right: [Project Specifications/Rubric](https://review.udacity.com/#!/rubrics/145/view)
 
-:point_right: [Live version](https://jtrfs.github.io/mockup-to-article/)
+:point_right: [View Online](https://jtrfs.github.io/mockup-to-article/)
 
 ***
 
-### My tweaks to the project:
-* I used not only HTML but also some internal CSS plus media query along with JavaScript and jQuery. To see the effect you must resize the viewport.
-
+### :red_circle: My tweaks to the project:
+* I used not only HTML but also some internal CSS plus media query along with and jQuery. :exclamation: **To see the effect you must resize the viewport**.
 * I tried to follow the mockup precisely - its look/design.
 
 **some media query**
@@ -48,7 +47,8 @@ When you've finished building the article, open up `reflections.txt`. You've lea
   });
 </script>
 ```
-****
+
+********
 
 ### To do list
 - [x] remember to try out the markdown (I tried to get the hang of the markdown in this README file)
