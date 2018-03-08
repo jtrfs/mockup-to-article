@@ -1,4 +1,4 @@
-## Project Instructions :pencil:
+## Project Instructions :pencil2:
 **Review the Article to Mockup Project [Rubric](https://review.udacity.com/#!/rubrics/145/view)**
 
 1. Download and unzip `mockup-to-article.zip` in the Supporting Materials section, below. You'll find `index.html`, the article mockup image (`blog-mockup.pdf`) and a file called `reflections.txt` inside.
